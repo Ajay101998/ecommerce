@@ -1,0 +1,6 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "boot-java.common.properties-metadata": "",
+    "java.debug.settings.onBuildFailureProceed": true
+}
